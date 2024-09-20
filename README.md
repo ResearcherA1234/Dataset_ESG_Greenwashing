@@ -2,4 +2,5 @@ This is the SP dataset for the research named "Corporate Green Activities agains
 
 The meaning of each column in dataset is as follows.
 
-![Description_of_variables](https://github.com/user-attachments/assets/966ddd24-3132-4931-a3c7-599102ae5df1)
+![Description_of_variables](https://github.com/user-attachments/assets/29b304a0-8759-4053-8d4b-4d243ffcadbd)
+
